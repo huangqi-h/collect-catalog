@@ -26,6 +26,7 @@
 | 1    | [xiaolin3303](https://github.com/xiaolin3303)/**wx-charts**  |                   微信小程序图表charts组件                   |                                              | 4k    |
 | 2    | [justjavac](https://github.com/justjavac)/**awesome-wechat-weapp** |                    微信小程序开发资源汇总                    | wechar-weapp,wxapp,weapp-demo,wechat,wepy    | 29.8k |
 | 3    | [NervJS](https://github.com/NervJS)/**[taro](https://github.com/NervJS/taro)** | 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。 | taro,react,react-native,wxapp,js,typescript, | 24k   |
+| 4    | WeChat-miniprogram                                           |                        小程序原生插件                        | https://github.com/wechat-miniprogram        |       |
 
 **other**
 
