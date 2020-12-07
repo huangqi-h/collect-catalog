@@ -101,3 +101,9 @@
 | :--- | -------------------------------------------------- | :---------: | -------- | ----- |
 | 1    | https://github.com/snowpackjs/snowpack/tree/v1.2.0 |  snowpack   |          | 13k   |
 
+### 代码风格
+
+| #    | Repository                           | Description                   | Language | stars |
+| :--- | ------------------------------------ | ----------------------------- | -------- | ----- |
+| 1    | https://github.com/airbnb/javascript | Airbnb JavaScript Style Guide |          | 103k  |
+
