@@ -103,7 +103,8 @@
 
 ### 代码风格
 
-| #    | Repository                           | Description                   | Language | stars |
-| :--- | ------------------------------------ | ----------------------------- | -------- | ----- |
-| 1    | https://github.com/airbnb/javascript | Airbnb JavaScript Style Guide |          | 103k  |
+| #    | Repository                                                   | Description                   | Language | stars |
+| :--- | ------------------------------------------------------------ | ----------------------------- | -------- | ----- |
+| 1    | https://github.com/airbnb/javascript                         | Airbnb JavaScript Style Guide |          | 103k  |
+| 2    | https://github.com/ecomfe/spec/blob/master/css-style-guide.md | css风格                       |          | 4.1k  |
 
